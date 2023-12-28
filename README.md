@@ -1,6 +1,7 @@
 # Dual-MRI-HA-HI
-# DDCA-HA-mmscorecam-for-multi-modal-MRI
-A framework of hierarchical alignments, dual-domain cross-attention,mmscorecam. This code is the network implementation for paper $${\color{red} Leveraging \space multi-modal \space  MRI \space synergies  \space for  \space  cognitive  \space decline  \space  detection:  \space dual-domain \space cross-attention \space  enhanced \space by \space  hierarchical \space alignments}$$
+HA-HI: Synergizing fMRI and DTI through Hierarchical Alignments and Interactions for Cognitive Impairment Detection
+A novel hierarchical framework for identifying cognitive conditions like MCI, SCD, and healthy states using dual-modal MRI, with emphasis on fMRI and DTI
+
 ## __Environment__  
 ```diff  
 torch ==1.13.1
