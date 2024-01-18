@@ -10,7 +10,7 @@ The HA-HI project represents a novel approach in medical imaging and computation
 
 ## Research Paper
 
-This repository is directly linked to our academic research. The paper detailing the methodologies, experiments, and results can be accessed at [PAPER LINK]. We encourage users to read the paper for a comprehensive understanding of the project's scientific background and objectives.
+This repository is directly linked to our academic research. The paper detailing the methodologies, experiments, and results can be accessed at http://arxiv.org/abs/2401.06780. We encourage users to read the paper for a comprehensive understanding of the project's scientific background and objectives.
 
 ## Key Features
 
